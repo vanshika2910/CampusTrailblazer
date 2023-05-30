@@ -1,0 +1,3 @@
+Lays	20	70
+Doritos	30	65
+Kurkure	20	30
